@@ -1,1 +1,3 @@
-# Betting-Bot
+# BasketballBettingBot
+
+HUGE *significant* **major** Money Plays
